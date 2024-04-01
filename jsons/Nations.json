@@ -27,7 +27,7 @@
                   "Enables conversion of city production to [Culture] <after discovering [Architecture]>",
 		  "May buy [Musketman] units for [350] [Gold] [in all cities]",
 		  "May buy [Ranged] units with [Culture] [in all cities]",   
-		  "[+20]% [Culture] <when at war> <after discovering [Chivalry]>",
+		  "[+20]% [Culture] <when at war> <after discovering [Chivalry]>"
 			
 		],
 		"cities": ["The CBD","Subiaco","Mt Lawley","Inglewood","Mt Hawthorn","Leederville","Tuart Hill","High Gate","Stirling","Peppermint Grove","Cottesloe","City Beach","Applecross","City Beach","Victoria Park","Thornlie","Mirrabooka","Bayswater","Midvale","Kenwick","Kelmscott","Innaloo","Claremont","Nedlands","Trigg","Swanbourne"]
