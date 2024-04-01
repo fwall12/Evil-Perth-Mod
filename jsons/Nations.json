@@ -1,27 +1,27 @@
-[
+
 	{
 		"name": "Evil Perth",
 		"leaderName": "Gina Rinehart",
 		"adjective": ["Urban Development"],
 		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "G'day! Welcome to Perth!",
-		"startIntroPart2": "You are Perth's glorious leader, Greg, he whom the Perthites expect to guide them to a brighter future.",
+		"startIntroPart1": "Embrace the darkness, the den of conformity and order that is Evil Perth",
+		"startIntroPart2": "You are Perth's financial leader, Gina Rinehart, whom the Perthites expect to guide them to a darker future.",
 		
-		"declaringWar": "Yeah nah mate, you crossed the line",
-		"attacked": "YOU FUCKING DRONGO!",
-		"defeated": "Fuck's sake",
-		"introduction": "G'day! Welcome to Perth!",
+		"declaringWar": "Try it again, I dare ya",
+		"attacked": "She'll be right!",
+		"defeated": "Oi",
+		"introduction": "Embrace the darkness, the den of conformity and order that is Evil Perth",
 		
 		"neutralHello": "G'day.",
 		"hateHello": "FUCK OFF.",
 		
 		
-		"afterPeace": "Oi, sick as.",
-		"tradeRequest": "Oi check out what I found on marketplace mate.",
+		"afterPeace": "Nice one.",
+		"tradeRequest": "Come on you'd be more humble without it.",
 
-		"outerColor": [14,216,0],
-		"innerColor": [189,193,52],
+		"outerColor": [0,48,135],
+		"innerColor": [242,169,0],
 		"uniques": [
                   "[+25]% Production towards any buildings that already exist in the Capital <during a Golden Age>",
 		  "[+25]% Production when constructing [All] buildings [in all cities] <during a Golden Age>",
@@ -34,4 +34,3 @@
 		],
 		"cities": ["The CBD","Northbridge","Midland","Gosnells","Armadale","Belmont","High Wycombe","Guildford","Cannington","Como","Cockburn","Joondalup","Kewdale","Malaga","East Victoria Park","Subiaco","Thornlie","Mirrabooka","Bayswater","Midvale","Kenwick","Kelmscott","Innaloo","Claremont","Carlisle","Canning Vale"]
 	}
-]
