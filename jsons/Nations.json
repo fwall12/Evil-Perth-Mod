@@ -24,7 +24,7 @@
 		"outerColor": [0,48,135],
 		"innerColor": [242,169,0],
 		"uniques": [
-                  "[+25]% Production towards any buildings that already exist in the Capital <during a Golden Age>",
+                  ""Enables conversion of city production to [Culture] <after discovering [Architecture]>"",
 		  "[+25]% Production when constructing [All] buildings [in all cities] <during a Golden Age>",
 		  "[+25]% Strength <when attacking> <during a Golden Age>",   
 		  "[+25]% of excess happiness converted to [Production] <during a Golden Age>",
