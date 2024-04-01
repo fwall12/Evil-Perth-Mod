@@ -1,0 +1,15 @@
+[
+	{
+		"name": "Green Spikey",
+		"uniqueTo": "Evil Perth",
+		"cost": 650,
+        "production": 4,
+		"culture": 4,
+		"maintenance": 3,
+		"isNationalWonder": true,
+        "uniques": ["[+2 Gold, +2 Production, +2 Science] per every [10] [Culture]"],
+		"requiredTech": "Engineering"
+	},
+
+	
+]
