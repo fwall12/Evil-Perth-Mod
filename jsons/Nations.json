@@ -25,12 +25,9 @@
 		"innerColor": [242,169,0],
 		"uniques": [
                   ""Enables conversion of city production to [Culture] <after discovering [Architecture]>"",
-		  "[+25]% Production when constructing [All] buildings [in all cities] <during a Golden Age>",
-		  "[+25]% Strength <when attacking> <during a Golden Age>",   
-		  "[+25]% of excess happiness converted to [Production] <during a Golden Age>",
-		  "[+50]% Golden Age length",
-		  "[+50]% unhappiness from the number of cities",
-		  "[-50]% Unhappiness from [Population] [in all cities]"
+		  "May buy [Musketman] units for [350] [Gold] [in all cities]"
+		  "May buy [Ranged] units with [Culture] [in all cities]",   
+		  "[+20]% [Culture] <when at war> <after discovering [Chivalry]>",
 			
 		],
 		"cities": ["The CBD","Subiaco","Mt Lawley","Inglewood","Mt Hawthorn","Leederville","Tuart Hill","High Gate","Stirling","Peppermint Grove","Cottesloe","City Beach","Applecross","City Beach","Victoria Park","Thornlie","Mirrabooka","Bayswater","Midvale","Kenwick","Kelmscott","Innaloo","Claremont","Nedlands","Trigg","Swanbourne"]
