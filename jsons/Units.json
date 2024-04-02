@@ -1,0 +1,14 @@
+[
+  {
+        "name": "Foreign Worker",
+        "unitType": "Civilian",
+        "uniqueTo": "Evil Perth",
+        "movement": 2,
+        "uniques": [
+            "[-45]% construction time for [Land] improvements",
+            "Can build [Land] improvements on tiles",
+            "Automation is a primary action"
+        ],
+        "cost": 45
+    }, 
+]
