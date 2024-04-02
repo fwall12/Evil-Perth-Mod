@@ -11,4 +11,20 @@
         ],
         "cost": 35
     }, 
+  {
+        "name": "Coloniser",
+        "unitType": "Civilian",
+        "uniqueTo": "Evil Perth",
+        "replaces": "Settler",
+        "movement": 2,
+        "cost": 106,
+        "uniques": [
+            "Founds a new city <by consuming this unit>",
+            "May enter foreign tiles without open borders",
+            "Double movement in [your]
+            "Excess Food converted to Production when under construction",
+            "Requires at least [2] population"
+        ],
+        "hurryCostModifier": 20
+    },
 ]
