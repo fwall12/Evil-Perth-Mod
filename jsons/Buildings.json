@@ -1,15 +1,16 @@
 [
-	{
-		"name": "The Swan",
-		"uniqueTo": "Evil Perth",
-		"cost": 650,
-        "production": 4,
-		"culture": 4,
-		"maintenance": 3,
-		"isNationalWonder": true,
-        "uniques": ["[+2 Gold, +2 Production, +2 Science] per every [10] [Culture]"],
-		"requiredTech": "Engineering"
-	},
+    {
+        "name": "The Swan",
+        "uniqueTo": "Evil Perth",
+        "cost": 500,
+        "isNationalWonder": true,
+        "uniques": [
+                    "[-50]% Culture cost of natural border growth [in all cities] <when at war>",
+                    "May buy [Foreign Worker] units with [Culture] [in all cities]  <when at war>",
+                    "[+20]% [Culture] [in this city] <when at war>"
+                    ],
+        "requiredTech": "Metal Casting"
+    },
 
-	
+
 ]
