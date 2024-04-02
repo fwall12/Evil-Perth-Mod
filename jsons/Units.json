@@ -9,6 +9,6 @@
             "Can build [Land] improvements on tiles",
             "Automation is a primary action"
         ],
-        "cost": 45
+        "cost": 35
     }, 
 ]
