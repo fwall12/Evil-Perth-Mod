@@ -7,7 +7,7 @@
         "uniques": [
                     "[-50]% Culture cost of natural border growth [in all cities] <when at war>",
                     "May buy [Foreign Worker] units with [Culture] [in all cities]  <when at war>",
-                    "[+20]% [Culture] [in this city] <when at war>"
+                    "[+25]% [Culture] [in this city] <when at war>"
                     ],
         "requiredTech": "Metal Casting"
     },
