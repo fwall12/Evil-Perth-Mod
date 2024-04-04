@@ -26,7 +26,7 @@
 		"uniques": [
                   "Enables conversion of city production to [Culture] <after discovering [Architecture]>",
 		  "Each city founded increases culture cost of policies [+33]% less than normal",
-		  "May buy [Military] units with [Culture] [in all cities]",   
+		  "May buy [Military] units with [Culture] for [2] times their normal Production cost",
 		  "[+25]% [Culture] <when at war> <after discovering [Chivalry]>"
 			
 		],
