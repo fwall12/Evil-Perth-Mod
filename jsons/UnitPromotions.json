@@ -1,0 +1,11 @@
+[
+     {
+        "name": "SmartRider", // Evil Perth Perk
+        "uniques": [
+            "Double movement in [Friendly Land]",
+            "Can move immediately once bought",
+            "Ignores terrain cost <in [Friendly Land] tiles>",
+            "[+15]% to Flank Attack bonuses <vs [Wounded]>"
+        ]
+    },
+]
